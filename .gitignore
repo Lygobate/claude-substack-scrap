@@ -1,0 +1,6 @@
+.cache/
+corpus-*/
+substack-*/
+*.pdf
+*.bak
+.DS_Store
